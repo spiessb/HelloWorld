@@ -8,4 +8,6 @@ def d = new Date()
 def f = new SimpleDateFormat('dd.MM.yyyy HH:mm')
 println f.format(d)
 
+def sf = new SimpleDateFormat()
+
 println(d)

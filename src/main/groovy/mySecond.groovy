@@ -1,4 +1,4 @@
-println('Bloss ein bisschen Schrott ;-)')
+/* println('Bloss ein bisschen Schrott ;-)') */
 
 assert 1 == 1
 
@@ -10,3 +10,6 @@ assert 1 instanceof Integer
 assert 1 instanceof Number
 
 assert 1.plus(2.5) == 3.5
+
+for (int i in 1..10) print(i + ' ');
+println()
