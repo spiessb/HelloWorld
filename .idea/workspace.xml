@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="11f775a7-7d5b-4f0e-8ce7-0da72942ad17" name="Default" comment="Added package 'quizes' with class TrueFalse.">
       <change afterPath="$PROJECT_DIR$/src/main/java/quizes/TrueFalse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -113,8 +112,8 @@
       <file leaf-file-name="TrueFalse.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/quizes/TrueFalse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -839,6 +838,14 @@
       <option name="presentableId" value="Default" />
       <updated>1531464019788</updated>
     </task>
+    <task id="LOCAL-00001" summary="update workspace info">
+      <created>1541232071325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541232071325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -875,18 +882,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1477" height="807" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.3264402" />
-      <window_info active="true" anchor="bottom" id="Messages" order="1" visible="true" weight="0.3264402" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.3264402" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.3295964" />
       <window_info anchor="right" id="Maven Projects" order="1" weight="0.32957292" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.3589365" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3293944" />
+      <window_info anchor="bottom" id="Version Control" order="2" visible="true" weight="0.3293944" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.31019202" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49475262" visible="true" weight="0.23819591" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.49475262" visible="true" weight="0.23819591" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32749078" />
       <window_info id="Learn" order="1" weight="0.32840028" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.2840028" />
@@ -936,7 +944,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added package 'quizes' with class TrueFalse." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added package 'quizes' with class TrueFalse." />
+    <MESSAGE value="update workspace info" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1291,8 +1300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/quizes/TrueFalse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
