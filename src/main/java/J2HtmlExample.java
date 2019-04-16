@@ -6,7 +6,7 @@ import static j2html.TagCreator.*;
  * See https://j2html.com/
  * Unfortunately not part of Java yet.
  */
-public class J2htmlExample {
+public class J2HtmlExample {
 
     public static void main(String[] args) {
         System.out.println(
