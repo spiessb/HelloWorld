@@ -3,12 +3,13 @@ class Converter {
     static fahrenheit(celsius) { 9/5 * celsius + 32 }
 }
 
-def f = 100.0
-def c = Converter.celsius(f)
-printf("%1.1f Fahrenheit sind %.1f Celcius.%n", f, c)
+def f100 = 100.0
+def cel  = Converter.celsius(f100)
+printf("%1.1f Fahrenheit sind %.1f Celcius.%n", f100, cel )
 
 //convert and convert back
-printf("%.1f%n", Converter.fahrenheit(Converter.celsius(100.0)) )
+printf("Hundert F hin und zurück ... %.1f%n", Converter.fahrenheit(Converter.celsius(100.0)) )
 
-println Converter.celsius(95)
+def heiss = 95
+println heiss + " F sind " + Converter.celsius(heiss) + " C."
 assert 35 == Converter.celsius(95)
