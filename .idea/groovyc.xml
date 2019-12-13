@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GroovyCompilerProjectConfiguration">
+    <option name="configScript" value="$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-all/2.4.3/groovy-all-2.4.3.pom" />
+  </component>
+</project>
